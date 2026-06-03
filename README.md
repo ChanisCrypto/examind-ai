@@ -34,7 +34,7 @@ The mock interview mode is especially useful for students preparing for online o
 
 **When:** In the weeks leading up to an exam, during self-study sessions.
 
-![Student studying](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/GPB_STUDENTEN_2010.jpg/640px-GPB_STUDENTEN_2010.jpg)
+![Student studying](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Master%27s_Degree_exam%2C_Ahvaz_-_26_April_2018_10.jpg/960px-Master%27s_Degree_exam%2C_Ahvaz_-_26_April_2018_10.jpg)
 
 ## Data sources and AI methods
 
@@ -78,5 +78,5 @@ To grow this project, I would need help from: educators and curriculum specialis
 
 * Inspired by the **Elements of AI** and **Building AI** courses by MinnaLearn and University of Helsinki
 * Concept influenced by [Khan Academy](https://www.khanacademy.org/) and their personalized learning approach
-* Student photo: [GBP Studenten 2010](https://commons.wikimedia.org/wiki/File:GPB_STUDENTEN_2010.jpg) / [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
+* Exam photo: [Master's Degree exam, Ahvaz, April 2018](https://commons.wikimedia.org/wiki/File:Master%27s_Degree_exam,_Ahvaz_-_26_April_2018_10.jpg) / [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 * Knowledge tracing concept based on research in Intelligent Tutoring Systems (ITS)
